@@ -4,10 +4,11 @@ Arietta Shield
 This is an Arduino Due shield for the 
 [Arietta SAM9G Linux module](http://www.acmesystems.it/arietta).
 
-If you're reading this, you probably know what that is.
-
 The purpose of this shield is to connect the Arduino Due to the Internet
 via a USB connection to Debian Linux running on the wifi-enabled Arietta board.
+
+Eventually I would like to get OpenWRT running on this board instead of Debian,
+so users can run a software stack similar to the [Arduino Yún](http://arduino.cc/en/Main/ArduinoBoardYun?from=Products.ArduinoYUN).
 
 This board has not been tested. I can't provide support for it.
 If you want to make one, you're on your own. Good luck!
