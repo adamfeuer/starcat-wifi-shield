@@ -23,7 +23,7 @@ Features
 * USB type A female connector that powers the Arietta module.
 * Use a short male micro-B to male type A USB cable to connect the Arietta shield to the Arduino Due.
  * [5 inch male micro-B to male A cable](http://www.amazon.com/gp/product/B00JX1260Y/) - this is inexpensive and works well
- * Provides USB 2.0 480Mbps connection to the Arduino Due
+ * Provides USB 2.0 480Mbps connection to the Arduino Due using equal-length differential traces.
 
 
 License
