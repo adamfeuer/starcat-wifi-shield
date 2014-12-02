@@ -12,6 +12,7 @@ so users can run a software stack similar to the [Arduino Yún](http://arduino.c
 
 * [Arietta shield schematic](https://github.com/adamfeuer/arietta-shield/blob/master/arietta-shield.pdf)
 * [Arietta shield PCB layout](https://github.com/adamfeuer/arietta-shield/blob/master/arietta-shield.png)
+* [Arietta shield gerber files](https://github.com/adamfeuer/arietta-shield/blob/master/cam/arietta-shield-oshpark-files-2014-12-01-1848.zip?raw=true) - suitable for submitting to [OSH Park](https://oshpark.com/).
 
 This board has not been tested. I can't provide support for it.
 If you want to make one, you're on your own. Good luck!
