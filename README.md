@@ -26,6 +26,14 @@ Features
  * [5 inch male micro-B to male A cable](http://www.amazon.com/gp/product/B00JX1260Y/) - this is inexpensive and works well
  * Provides USB 2.0 480Mbps connection to the Arduino Due using equal-length differential traces.
 
+Notes
+=====
+
+* The schematic and PCB layout were done in [Eagle CAD 6.5](http://www.cadsoftusa.com/).
+* The PCB is a 2-layer board.
+* This the the USB connector used - [TE Connectivity USB A Female](http://www.digikey.com/product-search/en?KeyWords=A31726-ND&WT.z_header=search_go) - manufacturer part number 292303-1
+* Arduino shield connectors are from [4UCon](http://www.4uconnector.com/), ordered from eBay sellers.
+
 
 License
 =======
