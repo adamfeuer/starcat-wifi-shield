@@ -7,7 +7,7 @@ This is an Arduino Due shield for the
 The purpose of this shield is to connect the Arduino Due to the Internet
 via a USB connection to Linux running on the wifi-enabled Arietta board.
 
-Eventually I would like to get OpenWRT running on this board instead of Debian,
+Eventually I would like to get OpenWRT running on the Arietta board instead of Debian,
 so users can run a software stack similar to the [Arduino Yún](http://arduino.cc/en/Main/ArduinoBoardYun?from=Products.ArduinoYUN).
 
 * [Arietta shield schematic](https://github.com/adamfeuer/arietta-shield/blob/master/arietta-shield.pdf)
