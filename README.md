@@ -1,7 +1,7 @@
-Arietta Shield
-==============
+Wifi Shield for Arduino Due
+===========================
 
-This is an Arduino Due shield for the 
+This is a wifi shield for Arduino Due, providing a connector to mount an
 [Arietta SAM9G Linux module](http://www.acmesystems.it/arietta).
 
 The purpose of this shield is to connect the Arduino Due to the Internet
